@@ -1,7 +1,7 @@
-<VI_Package_Builder_Settings Version="0.6" Created_Date="2014-07-22 21:58:31" Modified_Date="2015-07-14 15:06:32" Creator="Daniel" Comments="" ID="eb7026ff5f4da115459c044a30d4a912">
+<VI_Package_Builder_Settings Version="0.6" Created_Date="2014-07-22 21:58:31" Modified_Date="2015-07-14 16:29:47" Creator="Daniel" Comments="" ID="2919ae6354de8665a410f6335d9ebb2c">
   <Library_General_Settings>
     <Package_File_Name>ni_lib_tbm_pid</Package_File_Name>
-    <Library_Version>0.0.0.1</Library_Version>
+    <Library_Version>1.0.0.1</Library_Version>
     <Auto_Increment_Version>false</Auto_Increment_Version>
     <Library_Source_Folder>.</Library_Source_Folder>
     <Library_Output_Folder>..\..\releases\modules\PID</Library_Output_Folder>
