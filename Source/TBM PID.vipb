@@ -1,7 +1,7 @@
-<VI_Package_Builder_Settings Version="0.6" Created_Date="2014-07-22 21:58:31" Modified_Date="2015-07-13 18:12:54" Creator="Daniel" Comments="" ID="f5e6f1b4d5d0859748c5e93fa7d9349e">
+<VI_Package_Builder_Settings Version="0.6" Created_Date="2014-07-22 21:58:31" Modified_Date="2015-07-14 15:06:32" Creator="Daniel" Comments="" ID="eb7026ff5f4da115459c044a30d4a912">
   <Library_General_Settings>
-    <Package_File_Name>ni_lib_tbm_tdms</Package_File_Name>
-    <Library_Version>2.0.3.5</Library_Version>
+    <Package_File_Name>ni_lib_tbm_pid</Package_File_Name>
+    <Library_Version>0.0.0.1</Library_Version>
     <Auto_Increment_Version>false</Auto_Increment_Version>
     <Library_Source_Folder>.</Library_Source_Folder>
     <Library_Output_Folder>..\..\releases\modules\PID</Library_Output_Folder>
@@ -18,8 +18,6 @@
   <Advanced_Settings>
     <Package_Dependencies>
       <Additional_External_Dependencies>ni_lib_dataeng &gt;=2.0.4.2</Additional_External_Dependencies>
-      <Package_Conflicts>ni_lib_tdms_editnode &gt;=1.0.0.17</Package_Conflicts>
-      <Package_Conflicts>ni_lib_tdms_tbm &gt;=1.0.0.15</Package_Conflicts>
     </Package_Dependencies>
     <Custom_Action_VIs>
       <Pre-Build_VI/>
@@ -42,7 +40,7 @@
       <Toolkit_VIs>
         <LLB>false</LLB>
         <Preserve_Hierarchy>true</Preserve_Hierarchy>
-        <Path>&lt;vi.lib&gt;\NI\TBM Modules\TDMS Datalogger</Path>
+        <Path>&lt;vi.lib&gt;\NI\TBM Modules\PID</Path>
       </Toolkit_VIs>
       <Examples>
         <LLB>false</LLB>
