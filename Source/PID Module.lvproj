@@ -20,7 +20,7 @@
 		<Property Name="server.vi.callsEnabled" Type="Bool">true</Property>
 		<Property Name="server.vi.propertiesEnabled" Type="Bool">true</Property>
 		<Property Name="specify.custom.address" Type="Bool">false</Property>
-		<Item Name="PID Loop.lvclass" Type="LVClass" URL="../module/configuration/PID Loop.lvclass"/>
+		<Item Name="PID Loop.lvclass" Type="LVClass" URL="../module/configuration/PID Loop/PID Loop.lvclass"/>
 		<Item Name="PID Module configuration.lvclass" Type="LVClass" URL="../module/configuration/PID Module configuration.lvclass"/>
 		<Item Name="PID Module editor node.lvclass" Type="LVClass" URL="../editor node/PID Module editor node.lvclass"/>
 		<Item Name="PID Module runtime.lvclass" Type="LVClass" URL="../module/execution/PID Module runtime.lvclass"/>
