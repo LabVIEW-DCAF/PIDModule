@@ -1,10 +1,6 @@
 # PIDModule
 
-TBD Modules
-
-
-
-The collection of plugins which derive from the module interface
+Provides single-channel PID controller logic for N controllers
 
 
 
