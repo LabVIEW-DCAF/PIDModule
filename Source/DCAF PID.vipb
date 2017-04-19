@@ -1,7 +1,7 @@
-<VI_Package_Builder_Settings Version="0.6" Created_Date="2014-07-22 21:58:31" Modified_Date="2017-04-13 14:31:42" Creator="Daniel" Comments="" ID="1b817f246de46dffdb24fecf36e5e2a6">
+<VI_Package_Builder_Settings Version="0.6" Created_Date="2014-07-22 21:58:31" Modified_Date="2017-04-13 15:23:08" Creator="Daniel" Comments="" ID="0c5176d95f74d9fe776f0e549dd4ceda">
   <Library_General_Settings>
     <Package_File_Name>ni_lib_dcaf_pid</Package_File_Name>
-    <Library_Version>1.0.0.2</Library_Version>
+    <Library_Version>1.0.1.4</Library_Version>
     <Auto_Increment_Version>false</Auto_Increment_Version>
     <Library_Source_Folder>.</Library_Source_Folder>
     <Library_Output_Folder>..\..\releases\modules\PID</Library_Output_Folder>
@@ -108,9 +108,6 @@
         <Namespace_Type>Prefix</Namespace_Type>
         <Namespace/>
       </Namespace_Overrides>
-      <Exclusions>
-        <Path>PID Module.lvproj</Path>
-      </Exclusions>
     </Source_Files>
     <License_Agreement_Filepath>..\LICENSE.txt</License_Agreement_Filepath>
     <Licensing_and_Activation>
