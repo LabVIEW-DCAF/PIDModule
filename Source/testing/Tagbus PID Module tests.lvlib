@@ -13,32 +13,32 @@
 	</Item>
 	<Item Name="Array API test.lvtest" Type="TestItem" URL="../Array API test.lvtest">
 		<Property Name="utf.test.bind" Type="Str">Tagbus PID Module tests.lvlib:Array API test.vi</Property>
-		<Property Name="utf.vector.test.bind" Type="Str">20682071-52A7-E026-01C4-4B4DA9A03D57</Property>
+		<Property Name="utf.vector.test.bind" Type="Str">B279C92C-FC77-07D8-3C69-DD513A0E3C71</Property>
 	</Item>
 	<Item Name="Array API test.vi" Type="VI" URL="../Array API test.vi"/>
 	<Item Name="channel operation tests.lvtest" Type="TestItem" URL="../channel operation tests.lvtest">
 		<Property Name="utf.test.bind" Type="Str">Tagbus PID Module tests.lvlib:channel operation tests.vi</Property>
-		<Property Name="utf.vector.test.bind" Type="Str">1A50D9B4-E50E-70C0-626D-310A91EB67DB</Property>
+		<Property Name="utf.vector.test.bind" Type="Str">E1197912-1E5A-22B2-8515-2E2E0C0A8D4F</Property>
 	</Item>
 	<Item Name="channel operation tests.vi" Type="VI" URL="../channel operation tests.vi"/>
 	<Item Name="Config Crosslinking Test.lvtest" Type="TestItem" URL="../Config Crosslinking Test.lvtest">
 		<Property Name="utf.test.bind" Type="Str">Tagbus PID Module tests.lvlib:Config Crosslinking Test.vi</Property>
-		<Property Name="utf.vector.test.bind" Type="Str">9B786797-CF54-2B52-B287-BB4A65FEB80E</Property>
+		<Property Name="utf.vector.test.bind" Type="Str">FBF992C1-8DBE-0721-09FD-F50E970B483F</Property>
 	</Item>
 	<Item Name="Config Crosslinking Test.vi" Type="VI" URL="../Config Crosslinking Test.vi"/>
 	<Item Name="flatten and unflatten test.lvtest" Type="TestItem" URL="../../module/configuration/PID Loop/flatten and unflatten test.lvtest">
 		<Property Name="utf.test.bind" Type="Str">Tagbus PID Module tests.lvlib:flatten and unflatten test.vi</Property>
-		<Property Name="utf.vector.test.bind" Type="Str">D0589FE9-0126-1AF6-1C2E-1605E853EAAB</Property>
+		<Property Name="utf.vector.test.bind" Type="Str">378EE651-24CA-1BD4-9090-88181BE2F828</Property>
 	</Item>
 	<Item Name="flatten and unflatten test.vi" Type="VI" URL="../../module/configuration/PID Loop/flatten and unflatten test.vi"/>
 	<Item Name="init runtime test.lvtest" Type="TestItem" URL="../init runtime test.lvtest">
 		<Property Name="utf.test.bind" Type="Str">Tagbus PID Module tests.lvlib:init runtime test.vi</Property>
-		<Property Name="utf.vector.test.bind" Type="Str">F789D8C3-802A-649E-E311-6FB069E41CBB</Property>
+		<Property Name="utf.vector.test.bind" Type="Str">9D920ADB-D497-A0D5-1DBD-57181A5FEA19</Property>
 	</Item>
 	<Item Name="init runtime test.vi" Type="VI" URL="../init runtime test.vi"/>
 	<Item Name="pid array element to object test.lvtest" Type="TestItem" URL="../pid array element to object test.lvtest">
 		<Property Name="utf.test.bind" Type="Str">Tagbus PID Module tests.lvlib:pid array element to object test.vi</Property>
-		<Property Name="utf.vector.test.bind" Type="Str">0061C66F-47B6-5995-B6C9-57CC45095C13</Property>
+		<Property Name="utf.vector.test.bind" Type="Str">286C8BE5-D97A-D352-D18D-6F3F480DA22D</Property>
 	</Item>
 	<Item Name="pid array element to object test.vi" Type="VI" URL="../pid array element to object test.vi"/>
 </Library>
