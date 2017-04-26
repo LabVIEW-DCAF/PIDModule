@@ -1,7 +1,7 @@
-<VI_Package_Builder_Settings Version="0.6" Created_Date="2014-07-22 21:58:31" Modified_Date="2017-04-26 15:39:37" Creator="Daniel" Comments="" ID="d09b6463fd4e4fa1e2e3ae04780001bd">
+<VI_Package_Builder_Settings Version="0.6" Created_Date="2014-07-22 21:58:31" Modified_Date="2017-04-26 16:06:02" Creator="Daniel" Comments="" ID="7addd0638da72bb77b7bd402673856d3">
   <Library_General_Settings>
     <Package_File_Name>ni_lib_dcaf_pid</Package_File_Name>
-    <Library_Version>1.1.0.4</Library_Version>
+    <Library_Version>1.1.0.5</Library_Version>
     <Auto_Increment_Version>false</Auto_Increment_Version>
     <Library_Source_Folder>.</Library_Source_Folder>
     <Library_Output_Folder>..\..\releases\modules\PID</Library_Output_Folder>
