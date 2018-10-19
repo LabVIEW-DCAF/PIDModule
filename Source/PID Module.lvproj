@@ -23,46 +23,46 @@
 		<Property Name="specify.custom.address" Type="Bool">false</Property>
 		<Item Name="Unit Test Framework Tests" Type="Folder">
 			<Item Name="Add Remove Test.lvtest" Type="TestItem" URL="../testing/Add Remove Test.lvtest">
-				<Property Name="utf.test.bind" Type="Str">PID Module 2 tests.lvlib:Add Remove Test.vi</Property>
+				<Property Name="utf.test.bind" Type="Str">PID Module tests.lvlib:Add Remove Test.vi</Property>
 				<Property Name="utf.vector.test.bind" Type="Str">BF9B26EC-388E-D9B5-7374-4D767DCC8C97</Property>
 			</Item>
 			<Item Name="config crosslink test.lvtest" Type="TestItem" URL="../testing/config crosslink test.lvtest">
-				<Property Name="utf.test.bind" Type="Str">PID Module 2 tests.lvlib:config crosslink test.vi</Property>
+				<Property Name="utf.test.bind" Type="Str">PID Module tests.lvlib:config crosslink test.vi</Property>
 				<Property Name="utf.vector.test.bind" Type="Str">79E07143-0DBA-2D53-5DB2-9C19CDC70D8E</Property>
 			</Item>
 			<Item Name="Duplicate Name Error Test.lvtest" Type="TestItem" URL="../testing/Duplicate Name Error Test.lvtest">
-				<Property Name="utf.test.bind" Type="Str">PID Module 2 tests.lvlib:Duplicate Name Error Test.vi</Property>
+				<Property Name="utf.test.bind" Type="Str">PID Module tests.lvlib:Duplicate Name Error Test.vi</Property>
 				<Property Name="utf.vector.test.bind" Type="Str">3209118E-9E17-ADA1-855D-EE337CF5FBE3</Property>
 			</Item>
 			<Item Name="get channels test.lvtest" Type="TestItem" URL="../testing/get channels test.lvtest">
-				<Property Name="utf.test.bind" Type="Str">PID Module 2 tests.lvlib:get channels test.vi</Property>
+				<Property Name="utf.test.bind" Type="Str">PID Module tests.lvlib:get channels test.vi</Property>
 				<Property Name="utf.vector.test.bind" Type="Str">D53961B7-91AD-D7AE-8A25-BD99E2E2CB7B</Property>
 			</Item>
 			<Item Name="init runtime test.lvtest" Type="TestItem" URL="../testing/init runtime test.lvtest">
-				<Property Name="utf.test.bind" Type="Str">PID Module 2 tests.lvlib:init runtime test.vi</Property>
+				<Property Name="utf.test.bind" Type="Str">PID Module tests.lvlib:init runtime test.vi</Property>
 				<Property Name="utf.vector.test.bind" Type="Str">80B429CE-B7C3-9658-D4BD-565238B9E50D</Property>
 			</Item>
 			<Item Name="modify channel test.lvtest" Type="TestItem" URL="../testing/modify channel test.lvtest">
-				<Property Name="utf.test.bind" Type="Str">PID Module 2 tests.lvlib:modify channel test.vi</Property>
+				<Property Name="utf.test.bind" Type="Str">PID Module tests.lvlib:modify channel test.vi</Property>
 				<Property Name="utf.vector.test.bind" Type="Str">CF51F228-6C7E-277D-CAD2-7C083C8A2013</Property>
 			</Item>
 			<Item Name="serialization tests.lvtest" Type="TestItem" URL="../testing/serialization tests.lvtest">
-				<Property Name="utf.test.bind" Type="Str">PID Module 2 tests.lvlib:serialization tests.vi</Property>
+				<Property Name="utf.test.bind" Type="Str">PID Module tests.lvlib:serialization tests.vi</Property>
 				<Property Name="utf.vector.test.bind" Type="Str">6EF2588A-1983-A0FD-1986-D1DED9DBF9DE</Property>
 			</Item>
 			<Item Name="To and From Array Test.lvtest" Type="TestItem" URL="../testing/To and From Array Test.lvtest">
-				<Property Name="utf.test.bind" Type="Str">PID Module 2 tests.lvlib:To and From Array Test.vi</Property>
+				<Property Name="utf.test.bind" Type="Str">PID Module tests.lvlib:To and From Array Test.vi</Property>
 				<Property Name="utf.vector.test.bind" Type="Str">82EB0D4A-C8F5-DA8C-A198-2EA71209281A</Property>
 			</Item>
 			<Item Name="To and From CSV Test.lvtest" Type="TestItem" URL="../testing/To and From CSV Test.lvtest">
-				<Property Name="utf.test.bind" Type="Str">PID Module 2 tests.lvlib:To and From CSV Test.vi</Property>
+				<Property Name="utf.test.bind" Type="Str">PID Module tests.lvlib:To and From CSV Test.vi</Property>
 				<Property Name="utf.vector.test.bind" Type="Str">83F3899F-B07F-EF0E-EFD3-E9EE72C204E9</Property>
 			</Item>
 		</Item>
-		<Item Name="PID Module 2 tests.lvlib" Type="Library" URL="../testing/PID Module 2 tests.lvlib"/>
-		<Item Name="PID Module 2 editor node.lvclass" Type="LVClass" URL="../editor node/PID Module 2 editor node.lvclass"/>
-		<Item Name="PID Module 2 configuration.lvclass" Type="LVClass" URL="../module/configuration/PID Module 2 configuration.lvclass"/>
-		<Item Name="PID Module 2 runtime.lvclass" Type="LVClass" URL="../module/execution/PID Module 2 runtime.lvclass"/>
+		<Item Name="PID Module tests.lvlib" Type="Library" URL="../testing/PID Module tests.lvlib"/>
+		<Item Name="PID Module editor node.lvclass" Type="LVClass" URL="../editor node/PID Module editor node.lvclass"/>
+		<Item Name="PID Module configuration.lvclass" Type="LVClass" URL="../module/configuration/PID Module configuration.lvclass"/>
+		<Item Name="PID Module runtime.lvclass" Type="LVClass" URL="../module/execution/PID Module runtime.lvclass"/>
 		<Item Name="Dependencies" Type="Dependencies">
 			<Item Name="vi.lib" Type="Folder">
 				<Item Name="AMC.lvlib" Type="Library" URL="/&lt;vilib&gt;/NI/AMC/AMC.lvlib"/>
