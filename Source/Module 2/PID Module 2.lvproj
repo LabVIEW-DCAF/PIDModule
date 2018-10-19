@@ -190,8 +190,6 @@
 			<Item Name="System.Windows.Forms" Type="Document" URL="System.Windows.Forms">
 				<Property Name="NI.PreserveRelativePath" Type="Bool">true</Property>
 			</Item>
-			<Item Name="PID Loop.lvclass" Type="LVClass" URL="../../module/configuration/PID Loop/PID Loop.lvclass"/>
-			<Item Name="PID Module configuration.lvclass" Type="LVClass" URL="../../module/configuration/PID Module configuration.lvclass"/>
 		</Item>
 		<Item Name="Build Specifications" Type="Build"/>
 	</Item>
