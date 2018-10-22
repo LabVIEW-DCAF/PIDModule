@@ -3,7 +3,7 @@
 
 //Modify the below parameters to match the values for this particular repo
 
-def utfPaths = ["Source\\DDS\\PID Module.lvproj"]
+def utfPaths = ["Source\\PID Module.lvproj"]
 def vipbPaths = ["Source\\DCAF PID.vipb"]
 def lvVersion = "15.0"
 
