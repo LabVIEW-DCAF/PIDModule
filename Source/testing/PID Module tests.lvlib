@@ -28,4 +28,5 @@
 	<Item Name="subVIs" Type="Folder">
 		<Item Name="Create Test Configuration.vi" Type="VI" URL="../Create Test Configuration.vi"/>
 	</Item>
+	<Item Name="Get Tags Data.vi" Type="VI" URL="../Get Tags Data.vi"/>
 </Library>
