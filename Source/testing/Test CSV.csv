@@ -1,4 +1,5 @@
-PID_0,PID_0_Setpoint,,,<DV:>10.000000,<DV:>-10.000000,<DV:>5.000000,<DV:>0.100000,<DV:>0.010000
-PID_1,,,,<DV:>20.000000,<DV:>-20.000000,<DV:>5.000000,<DV:>0.100000,<DV:>0.010000
-PID_2,PID_2_Setpoint,,,<DV:>30.000000,<DV:>-30.000000,<DV:>5.000000,<DV:>0.100000,<DV:>0.010000
-PID_3,,,,<DV:>40.000000,<DV:>-40.000000,<DV:>5.000000,<DV:>0.100000,<DV:>0.010000
+PID ID ,Setpoint,Variable,Output,High Tag,High Default Value,Low Tag,Low Default Value,P Tag,P Default Value,I Tag,I Default Value,D Tag,D Default Value
+PID_0,PID_0_Setpoint,PID_0_ProcessVariable,PID_0_Output,PID_0_RangeHigh,10.000000,PID_0_RangeLow,-10.000000,PID_0_Proportional,15.000000,PID_0_Integral,0.100000,PID_0_Derivative,0.010000
+PID_1,,,,,20.000000,,-20.000000,,25.000000,,0.100000,,0.010000
+PID_2,PID_2_Setpoint,PID_2_ProcessVariable,PID_2_Output,PID_2_RangeHigh,30.000000,PID_2_RangeLow,-30.000000,PID_2_Proportional,35.000000,PID_2_Integral,0.100000,PID_2_Derivative,0.010000
+PID_3,,,,,40.000000,,-40.000000,,45.000000,,0.100000,,0.010000
